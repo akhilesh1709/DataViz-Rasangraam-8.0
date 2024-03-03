@@ -9,3 +9,12 @@ Institute name: SASTRA University
 
 For this project, I used the following datasets:
 1. Global Sustainable Data.csv
+
+## DATA VISUALIZATION
+
+##### Global Sustainability data dashboard
+
+![dataviz](https://github.com/akhilesh1709/DataViz-Rasangraam-8.0/assets/103525428/f0fec83e-a62e-4dcd-83c3-fa0365c7507e)
+
+
+
